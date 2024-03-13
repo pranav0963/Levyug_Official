@@ -100,7 +100,7 @@
     width: 40px;
     height: 40px;
     animation-delay: 2s;
-    animation-duration: 6s;
+    animation-duration: 12s;
     /* Faster animation duration */
 }
 
@@ -109,7 +109,7 @@
     width: 120px;
     height: 120px;
     animation-delay: 1s;
-    animation-duration: 3s;
+    animation-duration: 6s;
     /* Faster animation duration */
 }
 
@@ -117,7 +117,7 @@
     left: 75%;
     width: 90px;
     height: 90px;
-    animation-delay: 1s;
+    animation-delay: 2s;
 }
 
 .circles li:nth-child(8) {
@@ -125,7 +125,7 @@
     width: 95px;
     height: 95px;
     animation-delay: 0s;
-    animation-duration: 2s;
+    animation-duration: 4s;
     /* Faster animation duration */
 }
 
@@ -134,7 +134,7 @@
     width: 25px;
     height: 25px;
     animation-delay: 2s;
-    animation-duration: 5s;
+    animation-duration: 10s;
     /* Faster animation duration */
 }
 
@@ -143,7 +143,7 @@
     width: 300px;
     height: 300px;
     animation-delay: 0s;
-    animation-duration: 10s;
+    animation-duration: 20s;
     /* Faster animation duration */
 }
 
@@ -152,7 +152,7 @@
     width: 200px;
     height: 200px;
     animation-delay: 2s;
-    animation-duration: 10s;
+    animation-duration: 20s;
     /* Faster animation duration */
 }
 
@@ -161,7 +161,7 @@
     width: 100px;
     height: 100px;
     animation-delay: 0s;
-    animation-duration: 7s;
+    animation-duration: 14s;
     /* Faster animation duration */
 }
 
