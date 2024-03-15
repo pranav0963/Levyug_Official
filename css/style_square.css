@@ -172,7 +172,7 @@
 
 @media (max-width: 767px) {
     .flip-flex {
-        display: inline;
+        display: none;
     }
 }
 
