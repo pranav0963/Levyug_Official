@@ -194,8 +194,10 @@
     transform-style: preserve-3d;
 }
 
-.flip-box:hover .flip-box-inner {
-    transform: rotateY(180deg);
+@media (min-width: 767px) {
+    .flip-box:hover .flip-box-inner {
+        transform: rotateY(180deg);
+    }
 }
 
 .flip-box-front {
