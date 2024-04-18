@@ -1,0 +1,20 @@
+#levup {
+    position: relative;
+    height: 100vh;
+    background: url("../img/Levup_res_lap.png") no-repeat;
+    background-size: cover;
+    overflow-y: auto;
+    overflow-x: auto;
+    /* Add vertical scrollbar if content exceeds viewport height */
+}
+
+@media (max-width: 767px) {
+    #levup {
+        width: 430px;
+        height: 932px;
+        /* Adjust height to fit content */
+        min-height: 100vh;
+        /* Set minimum height to viewport height */
+        background: url("../img/Levup_res_pho.png") no-repeat;
+    }
+}
