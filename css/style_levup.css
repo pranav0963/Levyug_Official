@@ -1,7 +1,7 @@
 #levup {
     position: relative;
     height: 110vh;
-    background: url("../img/Levup_res_lap_2.png") no-repeat;
+    background: url("../img/Levup_res_lap_3.png") no-repeat;
     background-size: cover;
     overflow-y: auto;
     overflow-x: auto;
@@ -15,6 +15,6 @@
         /* Adjust height to fit content */
         min-height: 100vh;
         /* Set minimum height to viewport height */
-        background: url("../img/Levup_res_pho_2.png") no-repeat;
+        background: url("../img/Levup_res_pho_3.png") no-repeat;
     }
 }
